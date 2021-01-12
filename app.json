@@ -1,8 +1,8 @@
 {
   "name": "AllTube Download",
   "description": "HTML GUI for youtube-dl",
-  "repository": "https://github.com/Rudloff/alltube.git",
-  "logo": "https://alltubedownload.net/img/logo.png",
+  "repository": "https://github.com/bzx10086/alltube.git",
+  "logo": "https://blog.wtm.pw/wp-content/uploads/2020/12/102ddf4a5359d00e344ef38fb16066de-1.png",
   "keywords": [
     "alltube",
     "download",
@@ -29,5 +29,5 @@
       "required": false
     }
   },
-  "website": "https://alltubedownload.net/"
+  "website": "https://ytb.wtm.pw/"
 }
